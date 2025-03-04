@@ -8,7 +8,7 @@ spec:
  selector:
   matchLabels: 
    app: swiggy
- templates:
+ template:
   metadata:
    labels:
     app: swiggy
